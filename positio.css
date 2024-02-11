@@ -1,0 +1,25 @@
+*{
+   margin: 0; 
+   padding: 0;
+   box box-sizing: border-box;
+   height: 200vh;
+   width: 200vw;
+   
+}
+.div-dad{
+    width: 350px;
+    height: 350px;
+    background-color: blueviolet;
+    margin: 50px;
+
+}
+.div-som{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(95, 165, 42);
+}
+.comer{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(247, 13, 13);
+}
